@@ -5,7 +5,7 @@
 body{
     margin:10px;
     margin-top:20px;
-    background-image:url(http://img.fliptab.io/sky/1920x1200/68484273.jpg);
+    background-image:url("http://img.fliptab.io/sky/1920x1200/68484273.jpg");
     height:100vh;
     background-size:cover;
     font-family: 'Work Sans', sans-serif;
@@ -23,7 +23,7 @@ body{
     margin-top: 10px;;
     width:300px;
     height:400px;
-   background-image:url(http://3.bp.blogspot.com/-kQC61n9y5ZQ/UIY7Ns2pZdI/AAAAAAAAL5U/CQvUDHyX1S0/s1600/Pokemon+Wallpapers+1.jpg);
+   background-image:url("http://3.bp.blogspot.com/-kQC61n9y5ZQ/UIY7Ns2pZdI/AAAAAAAAL5U/CQvUDHyX1S0/s1600/Pokemon+Wallpapers+1.jpg");
     text-align: center;
     border-radius:25px;
     transition:0.2s;
